@@ -1,6 +1,9 @@
 # to-do-list-user-stories
 
-Here are the user stories for the To Do List application. These are intentionally vague when it comes to implementation - use your best judgment! It is not imperitive that you complete all of the user stories, but imperitive that you try! 
+Here are the user stories for the To Do List application. These are intentionally vague when it comes to implementation - use your best judgment! It is not imperitive that you complete all of the user stories, shoot to get through #7 - the rest are "advanced content".
+
+---
+### **Basic Requirements:**
 
 User story 1: As a user, I want an empty todo list when I first arrive and a message indicating I'm all done 
 
@@ -15,6 +18,9 @@ User story 5: I want to be able to edit a todo in case the details change
 User story 6: I want to categorize idividual todos
 
 User story 7: I want to be able to display todos by category
+
+---
+### **Advanced Content:**
 
 User story 8: I want to be able to indicate that a task is in progress
 

@@ -1,6 +1,10 @@
-# to-do-list-user-stories
+# To Do List Application
 
-Here are the user stories for the To Do List application. These are intentionally vague when it comes to implementation - use your best judgment! It is not imperitive that you complete all of the user stories, shoot to get through the Basic Requirements, up through #7 - the rest are Advanced Content that we highly encourage you tackle if you finish the first 7.
+In this exercise, you'll be implementing part of a To Do List application.
+
+Here are the user stories for the To Do List application. These are intentionally vague when it comes to implementation - use your best judgment! 
+
+It is not imperitive that you complete all of the user stories, shoot to get through the Basic Requirements, up through #7 - the rest are Advanced Content that we highly encourage you tackle if you finish the first 7.
 
 ---
 ### **Basic Requirements:**
